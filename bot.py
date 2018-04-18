@@ -25,7 +25,7 @@ def copyright(bot, update):
 
                 # Excepcion para @jruib por ser amigo del régimen
                 if update.message.from_user.username == 'jruib':
-                    msg = emoji.emojize("Guapo tu si puedes usarlo :kissing_face: \n")
+                    msg = emoji.emojize("Guapo tú sí puedes usarlo :kissing_face: \n")
 
                 # Destrozar mentalmente al resto
                 elif not update.message.from_user.username == 'pwaqo':
